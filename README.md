@@ -1,1 +1,3 @@
-# HFP
+# HFP - Functions for Distance analysis of tetraonid densities and abundance
+
+This package contains various functions that are used when conducting distance sampling analysis based line transect survey data from monitoring og tetraonid populations in Norway. The functions include helper functions, that reshape the input data to data that can be used in the R-package Distance, functions used to produce various summary statistics and to illustration of the results, and functions that estimate recruitment rates (juvenile to adult ratios) etc. The package is mainly used when reporting back to stakeholders, immediately after the surveys are conducted first half of August each year.  
